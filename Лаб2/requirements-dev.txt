@@ -1,0 +1,3 @@
+-r lab_python_oop/requirements.txt
+pytest==8.4.2
+behave==1.3.3
